@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ikromyusupov's github stats](https://github-readme-stats.vercel.app/api?username=JavohirJalilov&show_icons=true&theme=tokyonight)
+![ikromyusupov's github stats](https://github-readme-stats.vercel.app/api?username=ikromyusupov&show_icons=true&theme=tokyonight)
 
 <!-- Here are some ideas to get you started:
 
