@@ -2,7 +2,7 @@
 
 [![CodeWars](https://www.codewars.com/users/ikromyusupov/badges/large)](https://www.codewars.com/users/ikromyusupov)
 
-![ikromyusupov's github stats](https://github-readme-stats.vercel.app/api?username=ikromyusupov&show_icons=true&theme=tokyonight) 
+![ikromyusupov's github stats](https://github-readme-stats.vercel.app/api?username=ikromyusuf&show_icons=true&theme=tokyonight) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
