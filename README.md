@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![CodeWars](https://www.codewars.com/users/ikromyusupov/badges/large)](https://www.codewars.com/users/ikromyusupov)
-
 ![ikromyusuf's github stats](https://github-readme-stats.vercel.app/api?username=ikromyusuf&show_icons=true&theme=tokyonight) 
+
+[![CodeWars](https://www.codewars.com/users/ikromyusupov/badges/large)](https://www.codewars.com/users/ikromyusupov)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
