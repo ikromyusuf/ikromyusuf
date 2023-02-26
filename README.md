@@ -7,8 +7,6 @@
   <img src="https://profile-counter.glitch.me/ikromyusuf/count.svg" />
 </p>
 
-[![CodeWars](https://www.codewars.com/users/ikromyusupov/badges/large)](https://www.codewars.com/users/ikromyusupov)
-
 📈 **My GitHub Stats:**
 
 <div display="flex">
@@ -17,6 +15,9 @@
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikromyusuf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&include_all_commits=true"/>
   </p>
 </div>
+
+[![CodeWars](https://www.codewars.com/users/ikromyusupov/badges/large)](https://www.codewars.com/users/ikromyusupov)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
