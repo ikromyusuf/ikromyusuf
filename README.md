@@ -26,3 +26,10 @@
     <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikromyusuf&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=gotham&include_all_commits=true"/>
   </p>
 </div>
+
+## Snake Game
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ikromyusuf&show_icons=true&theme=gotham" alt="ikromyusuf" />
+ 
