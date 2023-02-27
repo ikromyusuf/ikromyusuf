@@ -30,10 +30,10 @@
 
 ## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=py,numpy,pandas,matplotlib,opencv,pytorch,tensorflow,docker,postgresql,github,git,linux,vscode,linkedin,latex,vim,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pypytorch,tensorflow,docker,postgresql,github,git,linux,vscode,linkedin,latex,vim,discord)](https://skillicons.dev)
 
 
-<!-- 
+<!-- ,numpy,pandas,matplotlib,opencv,
 ## Snake Game
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
