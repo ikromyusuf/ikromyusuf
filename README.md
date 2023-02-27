@@ -30,7 +30,7 @@
 
 ## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=pypytorch,tensorflow,docker,postgresql,github,git,linux,vscode,linkedin,latex,vim,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,postgresql,github,git,linux,vscode,linkedin,latex,vim,discord)](https://skillicons.dev)
 
 
 <!-- ,numpy,pandas,matplotlib,opencv,
