@@ -28,6 +28,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Language and TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=py,numpy,pandas,matplotlib,opencv,pytorch,discord,github,linux,vscode,postgresql)](https://skillicons.dev)
+
 
 <!-- 
 ## Snake Game
